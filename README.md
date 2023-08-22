@@ -46,7 +46,7 @@ To use this code, you will need to have Node.js and yarn installed on your machi
   - `main.tsx`: The application's entry point that renders the App 
 
 ### Usage
-- [follow this url](https://codesandbox.io/s/github/reduxjs/redux-toolkit/tree/master/examples/query/react/graphql?from-embed=&file=/src/App.tsx)
+- [follow this url](https://redux-toolkit.js.org/rtk-query/usage/examples#react-with-graphql)
 
 - The `store` module configures the Redux store with the player and match slice reducer and middleware.
 
