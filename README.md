@@ -1,4 +1,4 @@
-# Technical Test EuroSport
+# Tailwind Vite RTK Query Graphql Exemple
 
 ## Demo
 - [link to demo](https://luminous-alfajores-3e42b3.netlify.app/)
